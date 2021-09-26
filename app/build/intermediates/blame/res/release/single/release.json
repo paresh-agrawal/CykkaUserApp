@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_intro_slide2.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\intro_slide2.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_robo_advisory.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_robo_advisory.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_questionnaire_slide5.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\questionnaire_slide5.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_support.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_support.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_dashboard_banner3.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\dashboard_banner3.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_z_category_page07_commodity.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\z_category_page07_commodity.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_mutual_fund.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_mutual_fund.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_menu_how_to_use.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_menu_how_to_use.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_stocks_fundamental.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_stocks_fundamental.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_menu_mail.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_menu_mail.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_splash_screen.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_privacy_policy.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_privacy_policy.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_side_nav_bar.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_advisor.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_advisor.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_round_edittext.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\round_edittext.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_menu_settings.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_menu_settings.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_gold_silver.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_gold_silver.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_z_category_page09_retirement.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\z_category_page09_retirement.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_commodity.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_commodity.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_questionnaire_slide4.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\questionnaire_slide4.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_dashboard_banner2.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\dashboard_banner2.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_menu_linkedin.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_menu_linkedin.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_menu_rate_us.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_menu_rate_us.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_z_category_page03_bonds.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\z_category_page03_bonds.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_notifications.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_notifications.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_intro_slide3.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\intro_slide3.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_loan.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_loan.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_details.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_chevron_right.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_create_account.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_create_account.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_content_main.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_menu_gallery.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_error.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_error.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_sign_up_gradient.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\sign_up_gradient.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_dashboard_banner1.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\dashboard_banner1.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_z_category_page10_tax.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\z_category_page10_tax.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_questionnaire_slide7.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\questionnaire_slide7.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_menu_chat.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_menu_chat.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_profile.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_profile.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_questionnaire_slide2.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\questionnaire_slide2.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_dashboard_banner4.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\dashboard_banner4.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_edit.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_menu_wallet.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_menu_wallet.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_menu.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_z_category_page06_currency_forex.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\z_category_page06_currency_forex.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_tax.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_tax.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_otp_code.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_otp_code.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_menu_facebook.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_menu_facebook.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_logo.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_logo.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_india_flag.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_india_flag.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_menu_camera.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_questionnaire.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\activity_questionnaire.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_man.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_man.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_nav_header_main.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_questionnaire_slide1.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\questionnaire_slide1.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_dashboard_banner6.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\dashboard_banner6.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_z_category_page05_gold_silver.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\z_category_page05_gold_silver.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_z_category_page04_crypto.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\z_category_page04_crypto.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_insurance.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_insurance.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_z_category_page01_stocks_technical.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\z_category_page01_stocks_technical.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_menu_website.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_menu_website.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_dashboard_banner5.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\dashboard_banner5.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_verified.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_verified.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_calculators.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_calculators.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_z_category_page08_insurance.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\z_category_page08_insurance.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_demat_account.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_demat_account.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_menu_twitter.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_menu_twitter.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_menu_about_us.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_menu_about_us.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_questionnaire_slide3.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\questionnaire_slide3.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\menu_activity_main_drawer.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_wallet.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_wallet.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_bonds.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_bonds.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_menu_refer.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_menu_refer.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_expand_more.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_expand_more.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_app_bar_main.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_chat_bg.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\chat_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_stocks_technical.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_stocks_technical.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_forex.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_forex.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_arrow_forward.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_arrow_forward.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_retirement.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_retirement.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_intro_slide1.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\intro_slide1.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_z_category_page02_stocks_fundamental.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\z_category_page02_stocks_fundamental.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_questionnaire_slide6.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\questionnaire_slide6.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_z_category_page11_loan.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\z_category_page11_loan.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_crypto.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_crypto.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\layout_z_category_page12_mutual_fund.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\layout\\z_category_page12_mutual_fund.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_menu_instagram.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_menu_instagram.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Cykka\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_menu_share.png.flat",
+        "source": "G:\\AndroidStudioProjects\\Cykka\\app\\src\\main\\res\\drawable-v24\\ic_menu_share.png"
+    }
+]
